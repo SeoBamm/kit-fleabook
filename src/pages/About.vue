@@ -37,7 +37,7 @@
             되겠습니다.
           </h4>
           <h4 class="subheading">
-            벼룩시장 준비에 도움을 주신 컴퓨터공학과 개발자 및 학교 선생님들께 감사의 인사드립니다.
+            벼룩시장 준비에 도움을 주신 컴퓨터소프트웨어공학과 개발자 및 학교 선생님들께 감사의 인사드립니다.
           </h4>
         </v-col>
       </v-row>
@@ -48,10 +48,10 @@
     >
       <v-row align="center" justify="center">
         <v-col class="text-center" cols="12">
-          <h1 class="font-weight-black mb-4">2021 Developer</h1>
+          <h1 class="font-weight-black mb-4">2024 Developer</h1>
           <h4 class="subheading">컴퓨터소프트웨어공학과</h4>
           <h5 class="subheading font-weight-light mt-2">관리자</h5>
-          <h4 class="subheading">20' 서범창 22' 안재범</h4>
+          <h4 class="subheading">22' 안재범</h4>
         </v-col>
       </v-row>
     </v-parallax>
