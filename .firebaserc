@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "kit-fleamarket"
-  }
+    "default": "kit-fleamarket",
+    "kit-fleamarket": "kit-fleamarket"
+  },
+  "targets": {},
+  "etags": {}
 }

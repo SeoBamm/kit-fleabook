@@ -1,6 +1,6 @@
 {
   "hosting": {
-      "public": "public",
+      "public": "dist",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
       "rewrites": [
           {
@@ -8,6 +8,6 @@
               "destination": "/index.html"
           }
       ],
-      "predeploy": ["yarn install && yarn serve"]
+      "predeploy": ["yarn install && yarn build"]
   }
 }
