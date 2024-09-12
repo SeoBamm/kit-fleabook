@@ -11,7 +11,7 @@
 </template>
 
 <script>
-const dates = ["2024-09-14", "2024-09-15"];
+const dates = ["2024-09-12", "2024-09-13"];
 const hours = ["10", "11", "12", "13", "14", "15", "16", "17"];
 const minutes = ["00", "10", "20", "30", "40", "50"];
 export default {
